@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## MCBE-JPN
 
 You can use the [editor on GitHub](https://github.com/MCBE-JPN/mcbe-jpn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
