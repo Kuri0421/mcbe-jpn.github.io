@@ -8,6 +8,7 @@
     <meta name="theme-color" content="#157878">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdn.rawgit.com/balzss/luxbar/ae5835e2/build/luxbar.min.css">
   </head>
   <body>
     <section class="page-header">
@@ -19,6 +20,22 @@
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
     </section>
+    
+    <header id="luxbar" class="luxbar-default">
+      <input type="checkbox" class="luxbar-checkbox" id="luxbar-checkbox"/>
+      <div class="luxbar-menu luxbar-menu-right luxbar-menu-material-cyan">
+        <ul class="luxbar-navigation">
+          <li class="luxbar-header">
+            <label class="luxbar-hamburger luxbar-hamburger-doublespin" 
+              id="luxbar-hamburger" for="luxbar-checkbox"> <span></span> </label>
+          </li>
+          <li class="luxbar-item"><a href="#">Item 1</a></li>
+          <li class="luxbar-item"><a href="#">Item 2</a></li>
+          <li class="luxbar-item"><a href="#">Item 3</a></li>
+          <li class="luxbar-item"><a href="#">Item 4</a></li>
+        </ul>
+      </div>
+    </header>
 
     <section class="main-content">
       {{ content }}
