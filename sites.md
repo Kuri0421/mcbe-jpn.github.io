@@ -2,8 +2,6 @@
 
 ### フォーラム
 
-- 議論が可能であること
-
 | タイトル | 運営者(敬称略) |
 | :-- | :-- |
 | [PMMP Forum JP](https://forum.pmmp.ga/) | Nagizero0 |
@@ -14,12 +12,10 @@
 
 ### ブログ・ホームページ(専門)
 
-- サーバー開発に関するコンテンツのみで作られていること
-
 | タイトル | 運営者(敬称略) |
 | :-- | :-- |
 | [MCBEサーバーぶろぐ](https://minecraftbe.net/) | Yuko Fuyutuki・Wakame・Izuho Fujiwara |
-| [きまにまブログ](http://www.kimanima.com/) | KAKE26s [Twitter](https://twitter.com/kake26s) |
+| [きまにまブログ](http://www.kimanima.com/) | KAKE26s |
 | [wahuのPMMPブログ](http://wahu.blog.jp/) | 不明 |
 | [PMMP研究記録](http://fuwafuwamoufu.seesaa.net/) | ふわふわもうふ |
 | [karinto-pg's blog](http://karinto.hatenablog.jp/) | 不明 |
@@ -27,21 +23,19 @@
 
 ### ブログ・サイト(非専門)
 
-- サーバー開発に関する内容が少しでもあること
-
 | タイトル | 運営者(敬称略) |
 | :-- | :-- |
 | [Qiita PocketMine-MPｶﾃｺﾞﾘ](https://qiita.com/tags/PocketMine-MP) | - |
 | [haniokasaiのドキドキlinux](http://blog.haniokasai.com/) | haniokasai |
 | [Akaketouii's Memo](https://akaketouii.wordpress.com/) | Akaketouii |
-| [きまにまブログ](http://www.kimanima.com/) | KAKE26s [Twitter](https://twitter.com/kake26s) |
+| [きまにまブログ](http://www.kimanima.com/) | KAKE26s |
 | [ふじさんのお部屋](https://fujisan.tk/) | fujiwaraizuho |
-| [ぽぬぽぬ](https://ponu2.blogspot.jp/) | ぽに(?) |
+| [ぽぬぽぬ](https://ponu2.blogspot.jp/) | ぽに |
 | [Comorevi Diary](http://blog.comorevi.net/) | popkechupki |
 | [かめたんのーと](https://kametan.tokyo/blog/) | kametan0730 |
 | [お鳥さんの部屋](http://otorisan.lv9.org/) | otorisan |
 | [PMMP Web List](http://pmmpinko.web.fc2.com/) | inkoHK |
-| [~fumi/ChangeLog](http://www.ftnk.jp/~fumi/cl/index.html) | fumi(?) |
+| [~fumi/ChangeLog](http://www.ftnk.jp/~fumi/cl/index.html) | fumi |
 | [OopsOkinβ](https://oops.okin-jp.net/) | おきん |
 | [MINECRAFT.SERVER-INFO.NET](https://minecraft.server-memo.net/) | 不明 |
 
@@ -56,13 +50,13 @@
 | [鯖主のためのMinecraftPEサーバーWiki](http://pocketmine.memo.wiki/) | famima65536 ([一覧](http://pocketmine.memo.wiki/members/)) |
 | [PocketMine Sample Code](http://korado.php.xdomain.jp/) | korado531m7・obmth |
 | [pmmp @ ｳｨｷ](https://www33.atwiki.jp/pmmp/) | 不明 |
-| [Nukkit JP Wiki](http://mcpe.firebird.jp/nukkit) | maa123(不明) |
+| [Nukkit JP Wiki](http://mcpe.firebird.jp/nukkit) | maa123 |
 
 ### サービス
 
 | タイトル | 運営者(敬称略) |
 | :-- | :-- |
-| [Minecraft-PE Online](https://minecraftpe.jp/pc/#/server/) | Nexus [Twitter](https://twitter.com/nexusmine) |
+| [Minecraft-PE Online](https://minecraftpe.jp/pc/#/server/) | Nexus |
 | [MinecraftPE ForumUploader](http://uploader.mcpe.jp/) | 32ki(Gonbe34) |
 | [MCPE UniLoginSystem](https://mcpeuls.com/) | 32ki(Gonbe34) |
 
