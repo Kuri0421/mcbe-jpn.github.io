@@ -1,6 +1,7 @@
 # 関連サイト
 
 横線が入っているものは運営者に確認して今後利用しないか、移転、もしくは閉鎖されたサイトです。
+太字のサイトはフォーラム・Wikiの中で現在も更新がされているものです。
 
 ### フォーラム
 
@@ -8,8 +9,8 @@
 | :-- | :-- |
 | [PMMP Forum JP](https://forum.pmmp.ga/) | Nagizero0 |
 | [PmJP Forum](https://forum.pmjp.tk/) | kurimoto |
-| [MCBE FORUM](https://forum.mcbe.jp/) | N04h(SetsunaMC) |
-| [PocketMine Japan Community](https://pmmp.mcpe-jp.com/) | Yossi1114 |
+| **[MCBE FORUM](https://forum.mcbe.jp/)** | N04h(SetsunaMC) |
+| **[PocketMine Japan Community](https://pmmp.mcpe-jp.com/)** | Yossi1114 |
 | [PMMP WIKI JAPAN 掲示板](http://jbbs.shitaraba.net/netgame/14518/) | Ryoga |
 | ~~[MinecraftPE_Forum](http://mcpe.firebird.jp/forum/)~~ | maa123 |
 
@@ -46,12 +47,12 @@
 
 | タイトル | 運営者(敬称略) |
 | :-- | :-- |
-| [Minecraft PE wiki](http://wiki.mcpe.jp/) | 32ki(Gonbe34) |
-| [NukkitJapanWiki](https://nukkit-jp.ga/) | kazuemon |
-| ~~[旧PMMP Wiki Japan](http://seesaawiki.jp/pmmp/)~~ | Ryouga |
-| [PMMP Wiki Japan](http://pmwiki.tech/) | Ryouga |
+| **[Minecraft PE wiki](http://wiki.mcpe.jp/)** | 32ki(Gonbe34) |
+| **[NukkitJapanWiki](https://nukkit-jp.ga/)** | kazuemon |
+| **[PMMP Wiki Japan](http://pmwiki.tech/)** | Ryouga |
 | [鯖主のためのMinecraftPEサーバーWiki](http://pocketmine.memo.wiki/) | famima65536 ([一覧](http://pocketmine.memo.wiki/members/)) |
 | [PocketMine Sample Code](http://korado.php.xdomain.jp/) | korado531m7・obmth |
+| ~~[旧PMMP Wiki Japan](http://seesaawiki.jp/pmmp/)~~ | Ryouga |
 | [pmmp @ ｳｨｷ](https://www33.atwiki.jp/pmmp/) | 不明 |
 | ~~[Nukkit JP Wiki](http://mcpe.firebird.jp/nukkit)~~ | maa123 |
 
