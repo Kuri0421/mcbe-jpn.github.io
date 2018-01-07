@@ -1,5 +1,7 @@
 # 関連サイト
 
+MCBE-JPNがおすすめするサイト一覧です。
+
 横線が入っているものは運営者に確認して今後利用しないか、移転、もしくは閉鎖されたサイトです。
 太字のサイトはフォーラム・Wikiの中で現在も更新がされているものです。
 
@@ -24,6 +26,7 @@
 | [PMMP研究記録](http://fuwafuwamoufu.seesaa.net/) | ふわふわもうふ |
 | [karinto-pg's blog](http://karinto.hatenablog.jp/) | 不明 |
 | [PMMP-JPN](http://pmmp-jpn.github.io/) | haniokasai・Yossi1114 |
+| [Itsuの備忘録](http://itsumemo.blog.fc2.com/page-0.html) | Itsu |
 
 ### ブログ・サイト(非専門)
 
