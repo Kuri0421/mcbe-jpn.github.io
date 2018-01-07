@@ -5,6 +5,10 @@
 なお、編集の都合上敬称を省略させていただいております。  
 予めご了承ください。
 
+## 編集履歴
+
+- 2018/01/07 「PMMP Wiki Japan」を過疎のため非推奨としました。
+
 ---
 
 ## Recommend - おすすめ
@@ -18,14 +22,6 @@ Minecraft(BE)のサーバーに関するフォーラムです。
 | リンク | [https://forum.mcbe.jp/](https://forum.mcbe.jp/) |
 | :-- | :-- |
 | 運営者 | N04h(SetsunaMC) |
-
-### PMMP Wiki Japan
-
-PocketMine-MPなどの情報を掲載しているWikiです。
-
-| アドレス | [http://pmwiki.tech/](http://pmwiki.tech/) |
-| :-- | :-- |
-| 運営者 | Ryouga |
 
 ### 鯖主のためのMinecraftPEサーバーWiki
 
@@ -131,6 +127,7 @@ MinecraftPEを楽しむためのハウツーや、最新のアップデート情
 | Wiki | [pmmp @ ｳｨｷ](https://www33.atwiki.jp/pmmp/) | 不明 | 内容なし |
 | Wiki | [Nukkit JP Wiki](http://mcpe.firebird.jp/nukkit) | maa123 | 過疎 |
 | Wiki | [Nukkit非公式日本語Wiki](http://nukkit.memo.wiki/) | kazuemon(譲渡) | 移転 |
+| Wiki | [PMMP Wiki Japan](http://pmwiki.tech/) | Ryouga | 過疎 |
 
 ---
 
