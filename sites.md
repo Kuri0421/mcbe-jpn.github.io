@@ -1,5 +1,7 @@
 # 関連サイト
 
+横線が入っているものは運営者に確認して今後利用しないか、移転、もしくは閉鎖されたサイトです。
+
 ### フォーラム
 
 | タイトル | 運営者(敬称略) |
@@ -46,7 +48,7 @@
 | :-- | :-- |
 | [Minecraft PE wiki](http://wiki.mcpe.jp/) | 32ki(Gonbe34) |
 | [NukkitJapanWiki](https://nukkit-jp.ga/) | kazuemon |
-| [旧PMMP Wiki Japan(移転済み)](http://seesaawiki.jp/pmmp/) | Ryouga |
+| ~~[旧PMMP Wiki Japan](http://seesaawiki.jp/pmmp/)~~ | Ryouga |
 | [PMMP Wiki Japan](http://pmwiki.tech/) | Ryouga |
 | [鯖主のためのMinecraftPEサーバーWiki](http://pocketmine.memo.wiki/) | famima65536 ([一覧](http://pocketmine.memo.wiki/members/)) |
 | [PocketMine Sample Code](http://korado.php.xdomain.jp/) | korado531m7・obmth |
