@@ -16,6 +16,7 @@
 Minecraft(BE)のサーバーに関するフォーラムです。
 
 | リンク | [https://forum.mcbe.jp/](https://forum.mcbe.jp/) |
+| :-- | :-- |
 | 運営者 | N04h(SetsunaMC) |
 
 ### PMMP Wiki Japan
@@ -23,6 +24,7 @@ Minecraft(BE)のサーバーに関するフォーラムです。
 PocketMine-MPなどの情報を掲載しているWikiです。
 
 | アドレス | [http://pmwiki.tech/](http://pmwiki.tech/) |
+| :-- | :-- |
 | 運営者 | Ryouga |
 
 ### 鯖主のためのMinecraftPEサーバーWiki
@@ -30,6 +32,7 @@ PocketMine-MPなどの情報を掲載しているWikiです。
 PocketMine-MPなどの情報を掲載しているWikiの中で最近開設された新しいWikiです。
 
 | アドレス | [http://pocketmine.memo.wiki/](http://pocketmine.memo.wiki/) |
+| :-- | :-- |
 | 運営者 | famima65536 |
 
 ### PocketMine Sample Code
@@ -37,6 +40,7 @@ PocketMine-MPなどの情報を掲載しているWikiの中で最近開設され
 PocketMine-MPのサンプルコードを多く掲載しているサイトです。
 
 | アドレス | [http://korado.php.xdomain.jp/](http://korado.php.xdomain.jp/) |
+| :-- | :-- |
 | 運営者 | korado531m7・obmth |
 
 ### NukkitJapanWiki
@@ -44,6 +48,7 @@ PocketMine-MPのサンプルコードを多く掲載しているサイトです�
 NukkitやJupiterの情報を掲載しているWikiです。
 
 | アドレス | [https://nukkit-jp.ga/](https://nukkit-jp.ga/) |
+| :-- | :-- |
 | 運営者 | kazuemon |
 
 ### MinecraftPE Wiki
@@ -52,6 +57,7 @@ MinecraftPEを楽しむためのハウツーや、最新のアップデート情
 なお、このWikiに掲載されているサーバー開発の情報は古いものですのでご注意ください。
 
 | アドレス | [http://wiki.mcpe.jp/](http://wiki.mcpe.jp/) |
+| :-- | :-- |
 | 運営者 | 32ki(Gonbe34) |
 
 ---
@@ -60,6 +66,8 @@ MinecraftPEを楽しむためのハウツーや、最新のアップデート情
 
 内容が混在しているため別で記載させていただいております。
 
+| 名称 | 運営者 |
+| :-- | :-- |
 | [PocketMine Japan Community](https://pmmp.mcpe-jp.com/) | Yossi1114 |
 | [PMMP Forum JP](https://forum.pmmp.ga/) | Nagizero0 |
 | [PmJP Forum](https://forum.pmjp.tk/) | kurimoto |
@@ -68,6 +76,8 @@ MinecraftPEを楽しむためのハウツーや、最新のアップデート情
 
 サーバー開発の内容をメインで記載しているブログ・ホームページのまとめです。
 
+| 名称 | 運営者 |
+| :-- | :-- |
 | [MCBEサーバーぶろぐ](https://minecraftbe.net/) | Yuko Fuyutuki・Wakame・Izuho Fujiwara |
 | [きまにまブログ](http://www.kimanima.com/) | KAKE26s |
 | [wahuのPMMPブログ](http://wahu.blog.jp/) | 不明 |
@@ -80,6 +90,8 @@ MinecraftPEを楽しむためのハウツーや、最新のアップデート情
 
 サーバー開発の内容以外にも多くの記事がかかれているブログ・ホームページのまとめです。
 
+| 名称 | 運営者 |
+| :-- | :-- |
 | [Qiita PocketMine-MPｶﾃｺﾞﾘ](https://qiita.com/tags/PocketMine-MP) | - |
 | [haniokasaiのドキドキlinux](http://blog.haniokasai.com/) | haniokasai |
 | [Akaketouii's Memo](https://akaketouii.wordpress.com/) | Akaketouii |
@@ -96,6 +108,8 @@ MinecraftPEを楽しむためのハウツーや、最新のアップデート情
 
 ### サービス
 
+| 名称 | 運営者 |
+| :-- | :-- |
 | [Minecraft-PE Online](https://minecraftpe.jp/pc/#/server/) | Nexus |
 | [MinecraftPE ForumUploader](http://uploader.mcpe.jp/) | 32ki(Gonbe34) |
 | [MCPE UniLoginSystem](https://mcpeuls.com/) | 32ki(Gonbe34) |
@@ -112,12 +126,11 @@ MinecraftPEを楽しむためのハウツーや、最新のアップデート情
 | ジャンル |タイトル | 運営者 | 非推奨理由 |
 | :-- | :-- | :-- |
 | 掲示板 | [PMMP WIKI JAPAN 掲示板](http://jbbs.shitaraba.net/netgame/14518/) | Ryoga | 過疎 |
-| フォーラム | [MinecraftPE_Forum](http://mcpe.firebird.jp/forum/) | maa123 | 過疎 |
+| フォーラム | [MinecraftPE_Forum](http://mcpe.firebird.jp/forum/) | maa123 | 閉鎖 |
 | Wiki | [旧PMMP Wiki Japan](http://seesaawiki.jp/pmmp/) | Ryouga | 移転 |
 | Wiki | [pmmp @ ｳｨｷ](https://www33.atwiki.jp/pmmp/) | 不明 | 内容なし |
 | Wiki | [Nukkit JP Wiki](http://mcpe.firebird.jp/nukkit) | maa123 | 過疎 |
 | Wiki | [Nukkit非公式日本語Wiki](http://nukkit.memo.wiki/) | kazuemon(譲渡) | 移転 |
-
 
 ---
 
