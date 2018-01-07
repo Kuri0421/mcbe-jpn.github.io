@@ -9,6 +9,7 @@
 | [MCBE FORUM](https://forum.mcbe.jp/) | N04h(SetsunaMC) |
 | [PocketMine Japan Community](https://pmmp.mcpe-jp.com/) | Yossi1114 |
 | [PMMP WIKI JAPAN 掲示板](http://jbbs.shitaraba.net/netgame/14518/) | Ryoga |
+| ~~[MinecraftPE_Forum](http://mcpe.firebird.jp/forum/)~~ | maa123 |
 
 ### ブログ・ホームページ(専門)
 
@@ -50,7 +51,7 @@
 | [鯖主のためのMinecraftPEサーバーWiki](http://pocketmine.memo.wiki/) | famima65536 ([一覧](http://pocketmine.memo.wiki/members/)) |
 | [PocketMine Sample Code](http://korado.php.xdomain.jp/) | korado531m7・obmth |
 | [pmmp @ ｳｨｷ](https://www33.atwiki.jp/pmmp/) | 不明 |
-| [Nukkit JP Wiki](http://mcpe.firebird.jp/nukkit) | maa123 |
+| ~~[Nukkit JP Wiki](http://mcpe.firebird.jp/nukkit)~~ | maa123 |
 
 ### サービス
 
@@ -72,8 +73,8 @@ __ただいま編集中です__
 | [PMMP WIKI JAPAN](https://plus.google.com/communities/115198522099955985167) | Ryouga |
 | [マインクラフトPE サーバー情報交換所](https://plus.google.com/communities/107423347227741863002) | 不明 |
 | [PocketMine-MP プラグイン開発・情報](https://plus.google.com/communities/113114227095658540768) | ショウ村 |
-| [PocketMine-MP 日本語コミュニティ](https://plus.google.com/communities/100415233543727555506) | あゆっち(?) |
-| [PocketMine (海外)](https://plus.google.com/communities/106715613772884793633) | zEndo(?) |
+| [PocketMine-MP 日本語コミュニティ](https://plus.google.com/communities/100415233543727555506) | あゆっち |
+| [PocketMine (海外)](https://plus.google.com/communities/106715613772884793633) | zEndo |
 | [PM-MP プラグイン作成・情報交換コミュニティ](https://plus.google.com/communities/105519048850724675257) | めしだ |
 | [PocketMine-MP® (海外)](https://plus.google.com/communities/110722521495065317218) | 不明 |
 | [Nukkit (JP)](https://plus.google.com/communities/103878230227205978622) | maa123 |
@@ -84,7 +85,6 @@ __ただいま編集中です__
 | :-- | :-- |
 | [PMMP-JPN](https://github.com/PMMP-JPN) | haniokasai |
 | [PMMP-Plugin](https://github.com/setsunaMC/PMMP-Plugin) | setsunaMC |
-
 
 ## その他
 
