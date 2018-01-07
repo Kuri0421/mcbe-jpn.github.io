@@ -9,42 +9,41 @@
 
 ## Recommend - おすすめ
 
-サーバー開発の上でおすすめできるサイトです。
+サーバー開発などの参考としておすすめできるサイトです。
 
 ### MCBE FORUM
 
 Minecraft(BE)のサーバーに関するフォーラムです。
 
-
-| リンク | [https://forum.mcbe.jp/] |
+| リンク | [https://forum.mcbe.jp/](https://forum.mcbe.jp/) |
 | 運営者 | N04h(SetsunaMC) |
 
 ### PMMP Wiki Japan
 
 PocketMine-MPなどの情報を掲載しているWikiです。
 
-| アドレス | http://pmwiki.tech/ |
+| アドレス | [http://pmwiki.tech/](http://pmwiki.tech/) |
 | 運営者 | Ryouga |
 
 ### 鯖主のためのMinecraftPEサーバーWiki
 
 PocketMine-MPなどの情報を掲載しているWikiの中で最近開設された新しいWikiです。
 
-| アドレス | http://pocketmine.memo.wiki/ |
+| アドレス | [http://pocketmine.memo.wiki/](http://pocketmine.memo.wiki/) |
 | 運営者 | famima65536 |
 
 ### PocketMine Sample Code
 
 PocketMine-MPのサンプルコードを多く掲載しているサイトです。
 
-| アドレス | http://korado.php.xdomain.jp/ |
+| アドレス | [http://korado.php.xdomain.jp/](http://korado.php.xdomain.jp/) |
 | 運営者 | korado531m7・obmth |
 
 ### NukkitJapanWiki
 
 NukkitやJupiterの情報を掲載しているWikiです。
 
-| アドレス | https://nukkit-jp.ga/ |
+| アドレス | [https://nukkit-jp.ga/](https://nukkit-jp.ga/) |
 | 運営者 | kazuemon |
 
 ### MinecraftPE Wiki
@@ -52,7 +51,7 @@ NukkitやJupiterの情報を掲載しているWikiです。
 MinecraftPEを楽しむためのハウツーや、最新のアップデート情報を掲載しているWikiです。  
 なお、このWikiに掲載されているサーバー開発の情報は古いものですのでご注意ください。
 
-| アドレス | http://wiki.mcpe.jp/ |
+| アドレス | [http://wiki.mcpe.jp/](http://wiki.mcpe.jp/) |
 | 運営者 | 32ki(Gonbe34) |
 
 ### フォーラム
