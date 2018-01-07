@@ -54,6 +54,8 @@ MinecraftPEを楽しむためのハウツーや、最新のアップデート情
 | アドレス | [http://wiki.mcpe.jp/](http://wiki.mcpe.jp/) |
 | 運営者 | 32ki(Gonbe34) |
 
+---
+
 ### フォーラム
 
 内容が混在しているため別で記載させていただいております。
@@ -66,8 +68,6 @@ MinecraftPEを楽しむためのハウツーや、最新のアップデート情
 
 サーバー開発の内容をメインで記載しているブログ・ホームページのまとめです。
 
-| タイトル | 運営者 |
-| :-- | :-- |
 | [MCBEサーバーぶろぐ](https://minecraftbe.net/) | Yuko Fuyutuki・Wakame・Izuho Fujiwara |
 | [きまにまブログ](http://www.kimanima.com/) | KAKE26s |
 | [wahuのPMMPブログ](http://wahu.blog.jp/) | 不明 |
@@ -80,8 +80,6 @@ MinecraftPEを楽しむためのハウツーや、最新のアップデート情
 
 サーバー開発の内容以外にも多くの記事がかかれているブログ・ホームページのまとめです。
 
-| タイトル | 運営者 |
-| :-- | :-- |
 | [Qiita PocketMine-MPｶﾃｺﾞﾘ](https://qiita.com/tags/PocketMine-MP) | - |
 | [haniokasaiのドキドキlinux](http://blog.haniokasai.com/) | haniokasai |
 | [Akaketouii's Memo](https://akaketouii.wordpress.com/) | Akaketouii |
@@ -98,8 +96,6 @@ MinecraftPEを楽しむためのハウツーや、最新のアップデート情
 
 ### サービス
 
-| タイトル | 運営者 |
-| :-- | :-- |
 | [Minecraft-PE Online](https://minecraftpe.jp/pc/#/server/) | Nexus |
 | [MinecraftPE ForumUploader](http://uploader.mcpe.jp/) | 32ki(Gonbe34) |
 | [MCPE UniLoginSystem](https://mcpeuls.com/) | 32ki(Gonbe34) |
