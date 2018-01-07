@@ -1,24 +1,78 @@
 # 関連サイト
 
-MCBE-JPNがおすすめするサイト一覧です。
+サーバー開発に関するサイト一覧です。  
+運営者名は代表となっているユーザーを掲載しています。  
+なお、編集の都合上敬称を省略させていただいております。  
+予めご了承ください。
 
-横線が入っているものは運営者に確認して今後利用しないか、移転、もしくは閉鎖されたサイトです。
-太字のサイトはフォーラム・Wikiの中で現在も更新がされているものです。
+---
+
+## Recommend - おすすめ
+
+サーバー開発の上でおすすめできるサイトです。
+
+### MCBE FORUM
+
+Minecraft(BE)のサーバーに関するフォーラムです。
+
+| アドレス | https://forum.mcbe.jp/ |
+| :-- | :-- |
+| 運営者 | N04h(SetsunaMC) |
+
+### PMMP Wiki Japan
+
+PocketMine-MPなどの情報を掲載しているWikiです。
+
+| アドレス | http://pmwiki.tech/ |
+| :-- | :-- |
+| 運営者 | Ryouga |
+
+### 鯖主のためのMinecraftPEサーバーWiki
+
+PocketMine-MPなどの情報を掲載しているWikiの中で最近開設された新しいWikiです。
+
+| アドレス | http://pocketmine.memo.wiki/ |
+| :-- | :-- |
+| 運営者 | famima65536 |
+
+### PocketMine Sample Code
+
+PocketMine-MPのサンプルコードを多く掲載しているサイトです。
+
+| アドレス | http://korado.php.xdomain.jp/ |
+| :-- | :-- |
+| 運営者 | korado531m7・obmth |
+
+### NukkitJapanWiki
+
+NukkitやJupiterの情報を掲載しているWikiです。
+
+| アドレス | https://nukkit-jp.ga/ |
+| :-- | :-- |
+| 運営者 | kazuemon |
+
+### MinecraftPE Wiki
+
+MinecraftPEを楽しむためのハウツーや、最新のアップデート情報を掲載しているWikiです。  
+なお、このWikiに掲載されているサーバー開発の情報は古いものですのでご注意ください。
+
+| アドレス | http://wiki.mcpe.jp/ |
+| :-- | :-- |
+| 運営者 | 32ki(Gonbe34) |
 
 ### フォーラム
 
-| タイトル | 運営者(敬称略) |
-| :-- | :-- |
-| **[MCBE FORUM](https://forum.mcbe.jp/)** | N04h(SetsunaMC) |
-| **[PocketMine Japan Community](https://pmmp.mcpe-jp.com/)** | Yossi1114 |
+内容が混在しているため別で記載させていただいております。
+
+| [PocketMine Japan Community](https://pmmp.mcpe-jp.com/) | Yossi1114 |
 | [PMMP Forum JP](https://forum.pmmp.ga/) | Nagizero0 |
 | [PmJP Forum](https://forum.pmjp.tk/) | kurimoto |
-| [PMMP WIKI JAPAN 掲示板](http://jbbs.shitaraba.net/netgame/14518/) | Ryoga |
-| ~~[MinecraftPE_Forum](http://mcpe.firebird.jp/forum/)~~ | maa123 |
 
 ### ブログ・ホームページ(専門)
 
-| タイトル | 運営者(敬称略) |
+サーバー開発の内容をメインで記載しているブログ・ホームページのまとめです。
+
+| タイトル | 運営者 |
 | :-- | :-- |
 | [MCBEサーバーぶろぐ](https://minecraftbe.net/) | Yuko Fuyutuki・Wakame・Izuho Fujiwara |
 | [きまにまブログ](http://www.kimanima.com/) | KAKE26s |
@@ -30,7 +84,9 @@ MCBE-JPNがおすすめするサイト一覧です。
 
 ### ブログ・サイト(非専門)
 
-| タイトル | 運営者(敬称略) |
+サーバー開発の内容以外にも多くの記事がかかれているブログ・ホームページのまとめです。
+
+| タイトル | 運営者 |
 | :-- | :-- |
 | [Qiita PocketMine-MPｶﾃｺﾞﾘ](https://qiita.com/tags/PocketMine-MP) | - |
 | [haniokasaiのドキドキlinux](http://blog.haniokasai.com/) | haniokasai |
@@ -46,48 +102,46 @@ MCBE-JPNがおすすめするサイト一覧です。
 | [OopsOkinβ](https://oops.okin-jp.net/) | おきん |
 | [MINECRAFT.SERVER-INFO.NET](https://minecraft.server-memo.net/) | 不明 |
 
-### Wiki
-
-| タイトル | 運営者(敬称略) |
-| :-- | :-- |
-| **[Minecraft PE wiki](http://wiki.mcpe.jp/)** | 32ki(Gonbe34) |
-| **[NukkitJapanWiki](https://nukkit-jp.ga/)** | kazuemon |
-| **[PMMP Wiki Japan](http://pmwiki.tech/)** | Ryouga |
-| **[鯖主のためのMinecraftPEサーバーWiki](http://pocketmine.memo.wiki/)** | famima65536 ([一覧](http://pocketmine.memo.wiki/members/)) |
-| **[PocketMine Sample Code](http://korado.php.xdomain.jp/)** | korado531m7・obmth |
-| ~~[旧PMMP Wiki Japan](http://seesaawiki.jp/pmmp/)~~ | Ryouga |
-| [pmmp @ ｳｨｷ](https://www33.atwiki.jp/pmmp/) | 不明 |
-| ~~[Nukkit JP Wiki](http://mcpe.firebird.jp/nukkit)~~ | maa123 |
-
 ### サービス
 
-| タイトル | 運営者(敬称略) |
+| タイトル | 運営者 |
 | :-- | :-- |
 | [Minecraft-PE Online](https://minecraftpe.jp/pc/#/server/) | Nexus |
 | [MinecraftPE ForumUploader](http://uploader.mcpe.jp/) | 32ki(Gonbe34) |
 | [MCPE UniLoginSystem](https://mcpeuls.com/) | 32ki(Gonbe34) |
 
+---
+
+## Deprecated - 非推奨
+
+古い内容などが記載されていたり、現在活動されていないサイトのまとめです。  
+開発する上で参照することはおすすめしませんが、参考になる内容があるかもしれません。
+
+また、サイト把握のためにも記載しています。
+
+| ジャンル |タイトル | 運営者 | 非推奨理由 |
+| :-- | :-- | :-- |
+| 掲示板 | [PMMP WIKI JAPAN 掲示板](http://jbbs.shitaraba.net/netgame/14518/) | Ryoga | 過疎 |
+| フォーラム | [MinecraftPE_Forum](http://mcpe.firebird.jp/forum/) | maa123 | 過疎 |
+| Wiki | [旧PMMP Wiki Japan](http://seesaawiki.jp/pmmp/) | Ryouga | 移転 |
+| Wiki | [pmmp @ ｳｨｷ](https://www33.atwiki.jp/pmmp/) | 不明 | 内容なし |
+| Wiki | [Nukkit JP Wiki](http://mcpe.firebird.jp/nukkit) | maa123 | 過疎 |
+| Wiki | [Nukkit非公式日本語Wiki](http://nukkit.memo.wiki/) | kazuemon(譲渡) | 移転 |
+
+
+---
+
+## Other - その他
+
+今後分類される予定です。
+
 ### Lobiグループ
-
-**編集中...**
-
-- PMMPプラグイン開発＆質問 (2113)
-- プラグインを神が作りますｗ(公開バージョン) (1324)
-- 【nukkit】プラグイン質問 (76)
-- PM-MP Plugin 作成依頼/質問/テスト/宣伝/配布グループ (729)
-- マイクラBE 鯖宣伝＊プラグイン＊質問グル (380)
-- PMMPプラグイン講習会 (152)
-- 鯖主ティアクターズ (897)
-- 何人プラグインの神はいると思ってるの？   35億 後5千万 (352)
-- プラグインを神が作りますｗ(Nukkitバージョン) (71)
-- Pocketmine-MP.プラグイン質問 (52)
-- プラグインURL交換所
 
 __ただいま編集中です__
 
 ### Google+ グループ
 
-| タイトル | 運営者(敬称略) |
+| タイトル | 運営者 |
 | :-- | :-- |
 | [Minecraftサーバーソフト(日本語)](https://plus.google.com/communities/108295862755085960302) | Rintan Broadleaf |
 | [PMMP WIKI JAPAN](https://plus.google.com/communities/115198522099955985167) | Ryouga |
@@ -101,9 +155,7 @@ __ただいま編集中です__
 
 ### Github
 
-| タイトル | 運営者(敬称略) |
+| タイトル | 運営者 |
 | :-- | :-- |
 | [PMMP-JPN](https://github.com/PMMP-JPN) | haniokasai |
 | [PMMP-Plugin](https://github.com/setsunaMC/PMMP-Plugin) | setsunaMC |
-
-__ただいま編集中です__
