@@ -15,7 +15,8 @@
 
 Minecraft(BE)のサーバーに関するフォーラムです。
 
-| アドレス | (https://forum.mcbe.jp/) |
+
+| リンク | [https://forum.mcbe.jp/] |
 | 運営者 | N04h(SetsunaMC) |
 
 ### PMMP Wiki Japan
