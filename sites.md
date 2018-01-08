@@ -8,6 +8,7 @@
 ## 編集履歴
 
 - 2018/01/07 「PMMP Wiki Japan」を過疎のため非推奨としました。
+- 2018/01/08 専門ブログ「そらにっき」を追加しました。
 
 ---
 
@@ -81,6 +82,7 @@ MinecraftPEを楽しむためのハウツーや、最新のアップデート情
 | [karinto-pg's blog](http://karinto.hatenablog.jp/) | 不明 |
 | [PMMP-JPN](http://pmmp-jpn.github.io/) | haniokasai・Yossi1114 |
 | [Itsuの備忘録](http://itsumemo.blog.fc2.com/page-0.html) | Itsu |
+| [そらにっき](https://sora23.xyz/) | soradore |
 
 ### ブログ・サイト(非専門)
 
