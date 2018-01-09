@@ -10,6 +10,7 @@
 - 2018/01/07 「PMMP Wiki Japan」を過疎のため非推奨としました。
 - 2018/01/08 専門ブログ「そらにっき」を追加しました。
 - 2018/01/09 一部運営者のTwitterリンクを追加しました。
+- 2018/01/09 非専門ブログ「気まぐれブログ」を追加しました。
 
 ---
 
@@ -104,6 +105,7 @@ MinecraftPEを楽しむためのハウツーや、最新のアップデート情
 | [~fumi/ChangeLog](http://www.ftnk.jp/~fumi/cl/index.html) | fumi |
 | [OopsOkinβ](https://oops.okin-jp.net/) | おきん |
 | [MINECRAFT.SERVER-INFO.NET](https://minecraft.server-memo.net/) | 不明 |
+|[気まぐれブログ](https://kimagure.blog/)   |[kurimoto](https://twitter.com/0421yumin/)   |
 
 ### サービス
 
