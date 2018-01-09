@@ -111,7 +111,7 @@ MinecraftPEを楽しむためのハウツーや、最新のアップデート情
 
 | 名称 | 運営者 |
 | :-- | :-- |
-| [Minecraft-PE Online](https://minecraftpe.jp/pc/#/server/) | Nexus |
+| [Minecraft-PE Online](https://minecraftpe.jp/pc/#/server/) | [Nexus](https://twitter.com/nexusmine) |
 | [MinecraftPE ForumUploader](http://uploader.mcpe.jp/) | [32ki](https://twitter.com/meu32ki)([Gonbe34](https://twitter.com/gonbe34)) |
 | [MCPE UniLoginSystem](https://mcpeuls.com/) | [32ki](https://twitter.com/meu32ki)([Gonbe34](https://twitter.com/gonbe34)) |
 
